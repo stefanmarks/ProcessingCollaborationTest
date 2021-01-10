@@ -8,6 +8,6 @@ void draw()
 {
   background(255);
   fill(0);
-  texSize(32);
+  textSize(32);
   text("Hello, Ricardo", width/2, height/2);
 }
